@@ -1,0 +1,21 @@
+﻿{
+"items":
+[
+	{
+		"textId": "Simple text",
+		"text": "Einfacher Text"
+	},
+	{
+		"textId": "Switch language",
+		"text": "Sprache ändern"
+	},
+	{
+		"textId": "You have {bomb.seconds} second left to defuse the bomb.",
+		"text": "Du hast {bomb.seconds} Sekunde übrig die Bombe zu entschärfen."
+	},
+	{
+		"textId": "You have {bomb.seconds} seconds left to defuse the bomb.",
+		"text": "Du hast {bomb.seconds} Sekunden übrig die Bombe zu entschärfen."
+	}
+]
+}
